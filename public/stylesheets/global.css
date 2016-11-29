@@ -354,11 +354,14 @@ span.navbar-account-item{
     margin-top: 15px;
 }
 .gCreator{
-    width: 20%;
+    max-width: 30%;
     float: left;
     font-size: 18px;
     line-height: 40px;
     color: #5ab8fe;
+}
+.gCreator a{
+    color:#5ab8fe;
 }
 /*location副标题(星球创建者名) */
 /*.location>h2{
